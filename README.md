@@ -17,7 +17,7 @@ Imię i nazwisko: Łukasz Kraiński
 
 Email: lkrain@sgh.waw.pl
 
-Konsultacje przez MS Teams lub w poniedzałki w sali G-115, 08:00-09:40 (po uprzedniej notyfikacji na MS Teams lub przez e-mail)
+Konsultacje przez MS Teams lub w poniedziałki w sali G-115, 08:00-09:40 (po uprzedniej notyfikacji na MS Teams lub przez e-mail)
 
 ---
 **Prowadzący zajęcia**
