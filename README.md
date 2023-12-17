@@ -88,7 +88,7 @@ Konsultacje przez MS Teams lub w poniedziałki w sali G-115, 08:00-09:40 (po upr
 * Zaliczenie komputerowe na ćwiczeniach (50 punktów)
 * Punkty dodatkowe:
   * Prace domowe
-  * Konkurs w trakcie laboratorium
+  * Konkurs w trakcie laboratorium - więcej informacji w [folderze Konkurs](Konkurs/README.md)
 
 ---
 **Ocena końcowa**
