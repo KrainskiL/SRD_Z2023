@@ -18,3 +18,38 @@ Proszę sprawdzić czy kolejność predykcji zgadza się z kolejnością obserwa
 Tabela z rankingiem zespołów pojawi się na GitHubie w poniższym pliku README. Najlepszy zespół w każdej grupie zajęciowej otrzyma dodatkowe 5 punktów, kolejny 4 punkty, itd.
 
 Życzę powodzenia.
+
+### Wyniki konkursu
+
+Grupa 12
+| **Zespół**          | **F1-score** | **Punkty** | **Język** | **Model**              |
+|---------------------|--------------|------------|-----------|------------------------|
+| Statystyczne Świrki | 79,02        | 5          | Python    | XGBoost                |
+| Ananas              | 78,99        | 4          | Python    | XGBoost                |
+| Nazwa               | 78,33        | 3          | Python    | Gradient Boosted Trees |
+| JRK                 | 77,94        | 2          | Python    | XGBoost                |
+| Jakoś to będzie     | 77,87        | 1          | Python    | Random Forest          |
+| Analityczne Kotki   | 77,81        | 0          | Python    | Gradient Boosted Trees |
+| StudentDe           | 77,24        | 0          | Python    | Gradient Boosted Trees |
+| Bałwanki            | 76,88        | 0          | Python    | CART                   |
+
+Grupa 14
+| **Zespół**              | **F1-score** | **Punkty** | **Język** | **Model**                 |
+|-------------------------|--------------|------------|-----------|---------------------------|
+| Trzej Muszkieterowie    | 79,14        | 5          | Python    | XGBoost                   |
+| Renifery                | 78,55        | 4          | Python    | XGBoost                   |
+| Snorlax                 | 77,92        | 3          | Python    | XGBoost                   |
+| Pizza z Pierwszej Ławki | 77,86        | 2          | Python    | Gradient Boosted Trees    |
+| 3A                      | 77,80         | 1          | Python    | Gradient Boosted Trees    |
+| Grupa 16                | 75,63        | 0          | Python    | Support Vector Classifier |
+
+Grupa 16
+| **Zespół**           | **F1-score** | **Punkty** | **Język** | **Model**     |
+|----------------------|--------------|------------|-----------|---------------|
+| Skład Węgla i Papy   | 78,88        | 5          | Python    | Random Forest |
+| Chleb                | 78,81        | 4          | Python    | XGBoost       |
+| Trzej Muszkieterowie | 78,09        | 3          | Python    | Random Forest |
+| Smerfy               | 77,94        | 2          | Python    | Random Forest |
+| MWM                  | 77,82        | 1          | Python    | Random Forest |
+| Panda 5              | 75,54        | 0          | Python    | XGBoost       |
+| Pryncypałki          | 43,33        | 0          | Python    | Random Forest |
